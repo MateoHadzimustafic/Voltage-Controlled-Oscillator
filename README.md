@@ -25,4 +25,4 @@ Completed — Fully designed, built, tested, and validated.
 - `hardware/` — schematic, PCB layout, and manufacturing files
 - `bom/` — bill of materials and component notes
 - `images/` — renders, diagrams, and photos
-- `test_results/` — measurements and validation results
+
