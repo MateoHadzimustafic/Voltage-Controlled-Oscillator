@@ -1,7 +1,5 @@
 # Voltage-Controlled-Oscillator
 
-Short description of what this hardware project does.
-
 ## Overview
 
 Designed and built a Voltage-Controlled Oscillator (VCO) capable of generating square and triangle waveforms with adjustable frequency and amplitude using op-amp-based analog circuitry. Integrated USB power management and LiPo battery input for portable or wired operation, including onboard LiPo charging functionality for convenient rechargeable power support.
